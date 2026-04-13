@@ -55,6 +55,7 @@ const Contact = () => {
                   type="text"
                 />
               </div>
+              
               <button
                 type="sumbit"
                 className="w-full px-6 py-3 bg-purple rounded-lg font-medium hover:bg-purple-700 transition duration-300 cursor-pointer"

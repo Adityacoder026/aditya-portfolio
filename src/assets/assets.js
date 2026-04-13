@@ -6,7 +6,7 @@ import projectImg3 from '../assets/project3.avif';
 import projectImg4 from '../assets/project4.avif';
 import projectImg5 from '../assets/project5.avif';
 import projectImg6 from '../assets/project6.avif';
-import adityaprofile from '../assets/adityaprofile.jpeg';
+import adityaprofile from '../assets/adityaprofile.jpg';
 
 
 export const assets = {
